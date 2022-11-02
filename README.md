@@ -1,10 +1,16 @@
 ## Olá, meu nome é Lucca Menezes :)
+
 <div align="center">
   <a href="https://github.com/LuccaMenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaMenezes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMenezes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+<div align="center" width ="160em" height="160em">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuccaMenezes&theme=midnight-purple)](https://git.io/streak-stats)
+
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lucca-REACT" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucca-AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Lucca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
