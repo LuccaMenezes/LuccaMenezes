@@ -2,12 +2,16 @@
 
 <div align="center">
   <a href="https://github.com/LuccaMenezes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaMenezes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaMenezes&theme=midnight_purple" />
+  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMenezes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div align="center" width ="160em" height="160em">
 
+<div align="center" width="160em" height="160em">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuccaMenezes&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucca-REACT" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
